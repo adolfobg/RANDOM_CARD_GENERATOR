@@ -22,15 +22,13 @@ body {
   left: 10%;
   font-size: xx-large;
 }
-.bottom-symbol {
+.symbol_down {
   position: absolute;
   bottom: 1%;
   right: 10%;
   font-size: xx-large;
+  transform: rotate(180deg);
 }
 .color-red {
   color: red;
-}
-.color-black {
-  color: black;
 }
